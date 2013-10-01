@@ -1,0 +1,418 @@
+/* 
+Project Name: With Love
+Client: With Love - Glynis Niemandt
+Author: Amanda Claassen
+Developer @GA in LDN
+*/
+
+
+/******************************************
+/* SETUP                   
+/*******************************************/
+
+/* Box Model Hack */
+* {
+     -moz-box-sizing: border-box; /* Firexfox */
+     -webkit-box-sizing: border-box; /* Safari/Chrome/iOS/Android */
+     box-sizing: border-box; /* IE */
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+.alignright {
+	float: right; 
+	padding: 0 0 10px 10px; /* note the padding around a right floated image */
+}
+
+.alignleft {
+	float: left; 
+	padding: 0 10px 10px 0; /* note the padding around a left floated image */
+}
+
+/******************************************
+/* BASE STYLES                   
+/*******************************************/
+
+body {
+     color: #000;
+     font-size: 16px;
+     line-height: 1.4;
+     font-family: Helvetica, Arial, sans-serif;
+     background: url('../images/greyfloral.png');
+     font-family: 'Sail', cursive;
+}
+
+h1 {
+     width: 360px;
+}
+
+h1 a {
+     color: #ccc;
+     text-decoration: none;
+}
+               h1 a:hover, h1 a.active, h1 a:visited {
+                    color: #000;
+               }
+
+h2 {
+     width: 360px;
+     float: right;
+}
+
+/******************************************
+/* LAYOUT                   
+/*******************************************/
+
+/* Center the container */
+#container {
+     width: 960px;
+     margin: auto;
+}
+
+/* Nav rules */
+nav ul {
+     clear:both;
+     height: 22px;
+     padding: 0px;
+     margin: 0px;
+}
+
+     nav ul li a{
+          display: block;
+          float: left;
+          background: grey;
+          font-size: 22px;
+          padding: 10px;
+          margin: 0 0px;
+          width: 160px;
+          text-align: center;
+          border-radius: 3px;
+     }
+
+          nav a, nav a:visited {
+               color: #ccc;
+               text-decoration: none;
+          }
+               nav a:hover, nav a.active {
+                    color: #000;
+               }
+
+/******************************************
+/* SOCIAL MEDIA                   
+/*******************************************/
+
+#social-media ul {
+     float: left;
+     width: 360px;
+}
+
+#social-media ul li {
+     float: left;
+     text-indent: 100%;
+     white-space: nowrap;
+     overflow: hidden;
+}
+
+#social-media ul li a {
+          display: block;
+          width: 42px;
+          height: 42px;
+          background: url(../images/socialNav.png);
+     }
+
+     /* social-media normal state */
+     #social-media ul li.linkedIn a {
+          background-position:-6px 108px;
+     }
+     #social-media ul li.twitter a {
+          background-position:-54px 108px; 
+     }
+
+     #social-media ul li.facebook a {
+          background-position:-158px 108px; 
+     }
+
+     #social-media ul li.rss a {
+          background-position:-103px 108px; 
+          }
+
+     
+     /* social-media hover */
+     #social-media ul li.linkedIn a:hover {
+          background-position:-6px -4px; 
+     }
+
+     #social-media ul li.twitter a:hover {
+          background-position:-54px -4px; 
+     }
+
+     #social-media ul li.facebook a:hover {
+          background-position:-150px -4px; 
+     }
+
+     #social-media ul li.rss a:hover {
+          background-position:-100px -4px; 
+     }
+
+/******************************************
+/* Images
+*******************************************/
+
+.box {
+     width: 420px;
+     height: 300px;
+     margin: 20px 20px 0px 10px;
+     padding: 20px;
+     float: left;
+     color: grey;
+     font-size: 36px;
+     -moz-transition: all 2s ease;
+     -webkit-transition: all 2s ease;
+     -o-transition: all 2s ease;
+     transition: all 2s ease;
+}
+
+     .box:hover {
+          cursor: pointer;
+          width: 480px;
+          height: 320px;
+     }
+
+          .bgimg1 {
+               background: url('../images/main_image.jpg') no-repeat -400px -174px;
+
+               /*
+               background-image:url('myimage.gif');
+               background-repeat:no-repeat;
+               background-attachment:fixed;
+               background-position:center;
+               */
+          }
+
+          .bgimg2 {
+               background: url('../images/humptydumptypinkdeluxe.jpg') no-repeat -15px -20px;
+
+               /*
+               background-image:url('myimage.gif');
+               background-repeat:no-repeat;
+               background-attachment:fixed;
+               background-position:center;
+               */
+          }
+
+.rounded {
+     -moz-border-radius: 20px; /* Firefox */
+     -webkit-border-radius: 20px; /* Safari, Chrome */
+     border-radius: 20px; /* CSS3 */
+}
+
+/*******************************************/
+ FOOTER 
+/*******************************************/
+
+footer {
+     background:#000;
+     padding-top:32px;
+     margin-top: 18px;
+}
+
+     #footer-widgets-inner {
+          width:960px;
+          margin:0 auto;
+          padding:20px 0 35px;
+          overflow:hidden;
+     }
+
+          #footer-widgets-inner .box-footer {
+               float:left;
+               width:230px;
+               padding-right:30px;
+               overflow:hidden;
+               margin-bottom:40px;
+          }
+
+          #footer-widgets-inner .middle-widget {
+               width:500px;   
+          }
+
+          #footer-widgets-inner h3 {
+               font-size:20px;
+               border-bottom:1px solid #292929;
+               padding:7px 0 12px;
+               margin-bottom:2px;
+          }
+
+          #footer-widgets-inner .box-footer ul {
+               padding:0;
+          }
+
+          #footer-widgets-inner .box-footer ul li {
+               padding:7px 0;
+               border-bottom:1px solid #292929;
+               color:#986123;
+               font-size:10px;
+               font-style:italic;
+               list-style-type: none;
+          }
+
+          #footer-widgets-inner .box-footer ul li a {
+               text-decoration:none;
+               color:#515151;
+               font-size:13px;
+               font-style:normal;
+          }
+
+          #footer-widgets-inner .box-footer ul li a:hover {
+               color:#ccc;
+          }
+
+/* Copyright */
+
+#copyright {   
+     float:left;
+     width:290px;
+}
+
+#companybottom {
+     float:right;
+     width:290px;
+}
+
+/******************************************
+/* ADDITIONAL STYLES                   
+/*******************************************/
+
+.mid {
+     width: 218px;
+}
+
+.rounded {
+     -moz-border-radius: 20px; /* Firefox */
+     -webkit-border-radius: 20px; /* Safari, Chrome */
+     border-radius: 20px; /* CSS3 */
+}
+
+/******************************************
+/* HAMPERS PAGE BOXES                   
+/*******************************************/
+
+.boxes {
+     width: 160px;
+     height: 160px;
+     margin: 20px 20px 0px 10px;
+     padding: 20px;
+     float: left;
+     color: grey;
+     background: black;
+     font-size: 36px;
+     -moz-transition: all 3s ease;
+     -webkit-transition: all 3s ease;
+     -o-transition: all 3s ease;
+     transition: all 3s ease;
+}
+
+     .boxes:hover.bximg1 {
+          cursor: pointer;
+          height: 232px;
+     }
+
+          .bximg1 {
+               background: url('../images/green_dust_scratch.png') repeat;
+               float: left;
+               width: 550px;
+               height: 160px;
+
+          }
+
+          .bximg2 {
+               background: url('../images/green_dust_scratch.png') repeat;
+               float: left;
+
+          }
+
+          .bximg3 {
+               background: url('../images/green_dust_scratch.png') repeat;
+               float: left;
+
+          }
+
+          .bximg4 {
+               background: url('../images/green_dust_scratch.png') repeat;
+               float: left;
+
+          }
+
+          .bximg5 {
+               background: url('../images/green_dust_scratch.png') repeat;
+               float: left;
+
+          }
+
+          .bximg6 {
+               background: url('../images/green_dust_scratch.png') repeat;
+               float: left;
+
+          }
+
+          .bximg7 {
+               background: url('../images/green_dust_scratch.png') repeat;
+               float: left;
+
+          }
+
+          .bximg8 {
+               background: url('../images/green_dust_scratch.png') repeat;
+               float: left;
+          }
+
+/******************************************
+/* BIRTHDAYS PAGE ADDITIONAL STYLES                   
+/*******************************************/
+
+.birthdayp {
+     font-size: 22px;
+     margin: 20px 0 10px 10px;
+}
+
+     .birthday:hover.bximg1 {
+               cursor: pointer;
+               height: 100px;
+     }
+
+/******************************************
+/* OCCASIONS PAGE ADDITIONAL STYLES                   
+/*******************************************/
+
+.pirate {
+     margin: 10px 172px
+}
+
+/******************************************
+/* BABIES PAGE ADDITIONAL STYLES                   
+/*******************************************/
+
+#video {
+     text-align: center;
+     margin: 20px;
+}
+
+/******************************************
+/* PETS PAGE ADDITIONAL STYLES                   
+/*******************************************/
+
+#pets {
+     width: 500px;
+     margin: 20px;
+}

@@ -1,0 +1,1809 @@
+var dependent_l18n = {
+  "parent_label": {
+    "guest_general_help": {
+      "en": "General Help using the website/ with my account",
+      "de": "Allgemeine Hilfe zur Website/ zu meinem Konto",
+      "es": "Ayuda general para utilizar la página web/ con mi cuenta",
+      "fr": "Aide générale relative à l’utilisation du site Internet / avec mon compte",
+      "it": "Assistenza generale per l'uso del sito web / con il mio account",
+      "nl": "Algemene hulp bij gebruik van de website/van mijn rekening",
+      "pt": "Ajuda geral na utilização do site/da minha conta"
+    },
+    "guest_finding_property": {
+      "en": "Help Finding the right property",
+      "de": "Hilfe bei der Suche nach der richtigen Ferienwohnung",
+      "es": "Ayuda para encontrar la propiedad ideal",
+      "fr": "Aide pour trouver le bon logement",
+      "it": "Assistenza per trovare la proprietà più adatta ",
+      "nl": "Hulp bij het vinden van de juiste accommodatie",
+      "pt": "Ajuda a encontrar a propriedade certa"
+    },
+    "guest_payment_questions": {
+      "en": "Payment Questions",
+      "de": "Fragen zur Zahlung",
+      "es": "Preguntas sobre pagos",
+      "fr": "Questions relatives au paiement",
+      "it": "Domande sui pagamenti ",
+      "nl": "Financiële vragen",
+      "pt": "Perguntas sobre pagamentos"
+    },
+    "guest_change_or_cancel": {
+      "en": "Changing or Cancelling a Request/Booking",
+      "de": "Änderung oder Ablehnung einer Anfrage/Änderung oder Stornierung einer Buchung",
+      "es": "Preguntas sobre pagos",
+      "fr": "Modification ou annulation d’une demande/réservation",
+      "it": "Modifica o cancellazione di una richiesta di informazioni/prenotazione ",
+      "nl": "Wijzigen of annuleren van een aanvraag/reservering",
+      "pt": "Alterar ou cancelar um pedido/reserva"
+    },
+    "guest_checkin_help": {
+      "en": "Help Before Check-In",
+      "de": "Hilfe vor dem Check-in",
+      "es": "Ayuda antes de la Entrada",
+      "fr": "Aide avant l’arrivée",
+      "it": "Assistenza prima dell'arrivo",
+      "nl": "Hulp vóór de aankomst",
+      "pt": "Ajuda antes do check-in"
+    },
+    "guest_help_during_stay": {
+      "en": "Help During Stay",
+      "de": "Hilfe während des Aufenthalts",
+      "es": "Ayuda durante la Estancia",
+      "fr": "Aide pendant le séjour",
+      "it": "Assistenza durante il soggiorno ",
+      "nl": "Hulp gedurende het verblijf",
+      "pt": "Ajuda durante a estadia"
+    },
+    "guest_housetrip__loyalty_program": {
+      "en": "HouseTrip+ Loyalty Program",
+      "de": "Housetrip+ Treueprogramm",
+      "es": "Programa de Fidelidad HouseTrip+",
+      "fr": "Programme de fidélité HouseTrip+",
+      "it": "Programma Fedeltá HouseTrip+",
+      "nl": "Hulp gedurende het verblijf",
+      "pt": "Programa de Fidelização HouseTrip+"
+    },
+    "report_bug": {
+      "en": "Report a Bug",
+      "de": "Fehlermeldung",
+      "es": "Informar de un Error",
+      "fr": "Signaler un bug",
+      "it": "Segnalare un bug",
+      "nl": "Rapporteren van een probleem",
+      "pt": "Comunicar um erro"
+    },
+    "host_booking_process": {
+      "en": "Booking Process",
+      "de": "Buchungsvorgang",
+      "es": "Proceso de reserva",
+      "fr": "Procédure de réservation",
+      "it": "Procedura di prenotazione ",
+      "nl": "Reserveringsproces",
+      "pt": "Processo de reserva"
+    },
+    "host_guest_reviews": {
+      "en": "Guest Reviews",
+      "de": "Gastbewertungen",
+      "es": "Comentarios de los huéspedes",
+      "fr": "Avis des locataires",
+      "it": "Recensioni degli ospiti",
+      "nl": "Gast beoordelingen",
+      "pt": "Comentários dos hóspedes"
+    },
+    "host_cancellations": {
+      "en": "Cancellations",
+      "de": "Stornierungen",
+      "es": "Cancelaciones",
+      "fr": "Annulations",
+      "it": "Cancellazioni",
+      "nl": "Annuleringen",
+      "pt": "Cancelamentos"
+    },
+    "host_addtional_fees": {
+      "en": "HouseTrip charges & additional fees",
+      "de": "HouseTrip Gebühren & zusätzliche Gebühren",
+      "es": "Tarifas y cargos adicionales de HouseTrip",
+      "fr": "Frais HouseTrip et frais supplémentaires",
+      "it": "Oneri e costi aggiuntivi di HouseTrip",
+      "nl": "HouseTrip lasten & extra kosten",
+      "pt": "Encargos da HouseTrip e taxas adicionais"
+    },
+    "host_instant_booking": {
+      "en": "Instant Booking",
+      "de": "Sofortbuchung",
+      "es": "Reserva inmediata",
+      "fr": "Résa immédiate",
+      "it": "Prenotazione istantanea ",
+      "nl": "Onmiddellijke reservering",
+      "pt": "Reserva instantânea"
+    },
+    "help_managing_my_host_account": {
+      "en": "Help managing my Host account",
+      "de": "Hilfe bei der Verwaltung meines Gastgeberkontos",
+      "es": "Ayuda para administrar mi cuenta de propietario",
+      "fr": "Aide relative à la gestion de mon compte Propriétaire",
+      "it": "Assistenza per gestire il mio account da Proprietario ",
+      "nl": "Hulp bij het beheer van mijn Gastheer rekening",
+      "pt": "Ajuda a gerir a minha conta de Proprietário"
+    },
+    "host_managing_property_listings": {
+      "en": "Help managing my property listings",
+      "de": "Hilfe bei der Verwaltung meiner Ferienwohnungen",
+      "es": "Ayuda para administrar mis anuncios",
+      "fr": "Aide relative à la gestion de mes logements",
+      "it": "Assistenza per gestire gli annunci delle mie proprietà",
+      "nl": "Hulp bij het beheer van mijn  accomodatie vermeldingen",
+      "pt": "Ajuda a gerir os anúncios das minhas propriedades"
+    },
+    "host_payment_questions": {
+      "en": "Payment questions",
+      "de": "Fragen zu Zahlungen",
+      "es": "Preguntas sobre pagos",
+      "fr": "Questions relatives au paiement",
+      "it": "Domande sui pagamenti ",
+      "nl": "Financiële vragen",
+      "pt": "Perguntas sobre pagamentos"
+    },
+    "host_booking_problem": {
+      "en": "Problem with a booking",
+      "de": "Probleme mit einer Buchung",
+      "es": "Problemas con una reserva",
+      "fr": "Problème avec une réservation",
+      "it": "Problema con una prenotazione",
+      "nl": "Probleem met een reservering",
+      "pt": "Problema com uma reserva"
+    },
+    "host_calendar_sync": {
+      "en": "Syncing calendars",
+      "de": "Synchronisierung der Kalender",
+      "es": "Sincronizar calendarios",
+      "fr": "Synchronisation des calendriers",
+      "it": "Sincronizzazione dei calendari",
+      "nl": "Synchronisatie agenda's",
+      "pt": "Sincronizar calendários"
+    },
+    "host_uploading_property": {
+      "en": "Uploading a property",
+      "de": "Synchronisierung der Kalender",
+      "es": "Cargar una propiedad",
+      "fr": "Mise en ligne d’un logement",
+      "it": "Caricamento di una proprietà",
+      "nl": "Een accommodatie uploaden",
+      "pt": "Carregar (adicionar) uma propriedade"
+    },
+    "host_help_getting_more_bookings": {
+      "en": "Help getting more bookings",
+      "de": "Ich möchte mehr Buchungen bekommen",
+      "es": "Ayuda para conseguir más reservas",
+      "fr": "Aide pour obtenir davantage de réservations",
+      "it": "Assistenza per ricevere più prenotazioni",
+      "nl": "Hulp om meer reserveringen te krijgen",
+      "pt": "Ajuda a obter mais reservas"
+    }
+  }
+};
+
+
+var label_l18n = {
+  "value": {
+    "guest": {
+      "label": {
+        "en": "Guest",
+        "de": "Gast",
+        "es": "Huésped",
+        "fr": "Locataire",
+        "it": "Ospite",
+        "nl": "Gast",
+        "pt": "Hóspede"
+      }
+    },
+    "host": {
+      "label": {
+        "en": "Host",
+        "de": "Gastgeber",
+        "es": "Propietario",
+        "fr": "Propriétaire",
+        "it": "Proprietario",
+        "nl": "Gastheer",
+        "pt": "Proprietário"
+      }
+    },
+    "not_guest_or_host": {
+      "label": {
+        "en": "Other",
+        "de": "Sonstiges",
+        "es": "Otros",
+        "fr": "Autre",
+        "it": "Altro",
+        "nl": "Meer",
+        "pt": "Outro"
+      }
+    },
+    "general_help_using_the_website__with_my_account__i_want_to_know_how_to_create_an_account": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_general_help.en,
+        "de": dependent_l18n.parent_label.guest_general_help.de,
+        "es": dependent_l18n.parent_label.guest_general_help.es,
+        "fr": dependent_l18n.parent_label.guest_general_help.fr,
+        "it": dependent_l18n.parent_label.guest_general_help.it,
+        "nl": dependent_l18n.parent_label.guest_general_help.nl,
+        "pt": dependent_l18n.parent_label.guest_general_help.pt
+      },
+      "label": {
+        "en": "I want to know how to create an account",
+        "de": "Ich möchte ein Konto eröffnen",
+        "es": "Deseo saber cómo crear una cuenta",
+        "fr": "Je souhaite savoir comment créer un compte",
+        "it": "Vorrei sapere come si crea un account",
+        "nl": "Ik wil weten hoe ik een rekening kan openen",
+        "pt": "Pretendo saber como criar uma conta"
+      }
+    },
+    "general_help_using_the_website__with_my_account___i_forgot_my_password": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_general_help.en,
+        "de": dependent_l18n.parent_label.guest_general_help.de,
+        "es": dependent_l18n.parent_label.guest_general_help.es,
+        "fr": dependent_l18n.parent_label.guest_general_help.fr,
+        "it": dependent_l18n.parent_label.guest_general_help.it,
+        "nl": dependent_l18n.parent_label.guest_general_help.nl,
+        "pt": dependent_l18n.parent_label.guest_general_help.pt
+      },
+      "label": {
+        "en": "I forgot my password",
+        "de": "Ich habe mein Passwort vergessen",
+        "es": "Olvidé mi contraseña",
+        "fr": "J’ai oublié mon mot de passe",
+        "it": "Ho dimenticato la password",
+        "nl": "Ik ben mijn wachtwoord vergeten",
+        "pt": "Esqueci-me da palavra-passe"
+      }
+    },
+    "general_help_using_the_website__with_my_account__i_want_to_unsubscribe_e_mails_from_housetrip": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_general_help.en,
+        "de": dependent_l18n.parent_label.guest_general_help.de,
+        "es": dependent_l18n.parent_label.guest_general_help.es,
+        "fr": dependent_l18n.parent_label.guest_general_help.fr,
+        "it": dependent_l18n.parent_label.guest_general_help.it,
+        "nl": dependent_l18n.parent_label.guest_general_help.nl,
+        "pt": dependent_l18n.parent_label.guest_general_help.pt
+      },
+      "label": {
+        "en": "I want to unsubscribe e-mails from HouseTrip",
+        "de": "Ich möchte keine E-Mail-Nachrichten mehr von HouseTrip erhalten",
+        "es": "Deseo dejar de recibir correos electrónicos de HouseTrip",
+        "fr": "Je ne souhaite plus recevoir d’emails de la part de HouseTrip",
+        "it": "Non voglio più ricevere e-mail da HouseTrip",
+        "nl": "Ik wil geen HouseTrip e-mails meer ontvangen",
+        "pt": "Pretendo anular a subscrição de e-mails da HouseTrip"
+      }
+    },
+    "general_help_using_the_website__with_my_account__i_want_to_leave_a_review_for_a_property_i_stayed_in": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_general_help.en,
+        "de": dependent_l18n.parent_label.guest_general_help.de,
+        "es": dependent_l18n.parent_label.guest_general_help.es,
+        "fr": dependent_l18n.parent_label.guest_general_help.fr,
+        "it": dependent_l18n.parent_label.guest_general_help.it,
+        "nl": dependent_l18n.parent_label.guest_general_help.nl,
+        "pt": dependent_l18n.parent_label.guest_general_help.pt
+      },
+      "label": {
+        "en": "I want to leave a review for a property I stayed in",
+        "de": "Ich möchte eine Bewertung über eine gebuchte Ferienwohnung schreiben",
+        "es": "Deseo dejar un comentario sobre una propiedad en la cual me he hospedado",
+        "fr": "Je souhaite laisser un avis pour une propriété dans laquelle j´ai séjourné",
+        "it": "Vorrei inserire una recensione su di una proprietà in cui ho soggiornato",
+        "nl": "I wil graag een on line bespreking nalaten voor het pand waarin ik heb verbleven",
+        "pt": "Pretendo deixar um comentário sobre uma propriedade onde estive"
+      }
+    },
+    "general_help_using_the_website__with_my_account__i_want_to_redeem_my_voucher": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_general_help.en,
+        "de": dependent_l18n.parent_label.guest_general_help.de,
+        "es": dependent_l18n.parent_label.guest_general_help.es,
+        "fr": dependent_l18n.parent_label.guest_general_help.fr,
+        "it": dependent_l18n.parent_label.guest_general_help.it,
+        "nl": dependent_l18n.parent_label.guest_general_help.nl,
+        "pt": dependent_l18n.parent_label.guest_general_help.pt
+      },
+      "label": {
+        "en": "I want to redeem my voucher",
+        "de": "Ich möchte meinen Gutschein einlösen",
+        "es": "Deseo canjear mi vale",
+        "fr": "Je souhaite utiliser mon bon de réduction",
+        "it": "Vorrei riscattare il mio voucher",
+        "nl": "Ik wil mijn voucher inwisselen",
+        "pt": "Pretendo trocar o meu voucher"
+      }
+    },
+    "general_help_using_the_website__with_my_account__i_want_to_contact_a_host_before_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_general_help.en,
+        "de": dependent_l18n.parent_label.guest_general_help.de,
+        "es": dependent_l18n.parent_label.guest_general_help.es,
+        "fr": dependent_l18n.parent_label.guest_general_help.fr,
+        "it": dependent_l18n.parent_label.guest_general_help.it,
+        "nl": dependent_l18n.parent_label.guest_general_help.nl,
+        "pt": dependent_l18n.parent_label.guest_general_help.pt
+      },
+      "label": {
+        "en": "I want to contact a Host before booking",
+        "de": "Ich möchte einen Gastgeber vor abgeschlossener Buchung kontaktieren",
+        "es": "Deseo contactar un propietario antes de reservar",
+        "fr": "Je souhaite contacter un propriétaire avant réserver",
+        "it": "Vorrei contattare un proprietario prima della prenotazione",
+        "nl": "Ik wil een Gastheer contacteren",
+        "pt": "Pretendo contactar un proprietário antes de reservar"
+      }
+    },
+    "help_finding_the_right_property__i_need_help_looking_for_accommodation": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_finding_property.en,
+        "de": dependent_l18n.parent_label.guest_finding_property.de,
+        "es": dependent_l18n.parent_label.guest_finding_property.es,
+        "fr": dependent_l18n.parent_label.guest_finding_property.fr,
+        "it": dependent_l18n.parent_label.guest_finding_property.it,
+        "nl": dependent_l18n.parent_label.guest_finding_property.nl,
+        "pt": dependent_l18n.parent_label.guest_finding_property.pt
+      },
+      "label": {
+        "en": "I need help looking for accommodation",
+        "de": "Ich benötige Hilfe bei der Suche nach einer Unterkunft",
+        "es": "Necesito ayuda para encontrar alojamiento",
+        "fr": "J’ai besoin d’aide dans ma recherche d’un logement",
+        "it": "Mi serve assistenza per cercare una sistemazione",
+        "nl": "Ik heb hulp nodig bij het zoeken van accommodatie",
+        "pt": "Preciso de ajuda na procura de alojamento"
+      }
+    },
+    "help_finding_the_right_property___i_want_additional_information_about_a_property": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_finding_property.en,
+        "de": dependent_l18n.parent_label.guest_finding_property.de,
+        "es": dependent_l18n.parent_label.guest_finding_property.es,
+        "fr": dependent_l18n.parent_label.guest_finding_property.fr,
+        "it": dependent_l18n.parent_label.guest_finding_property.it,
+        "nl": dependent_l18n.parent_label.guest_finding_property.nl,
+        "pt": dependent_l18n.parent_label.guest_finding_property.pt
+      },
+      "label": {
+        "en": "I need additional information about a property",
+        "de": "Ich brauche zusätzliche Angaben zu einer Ferienwohnung",
+        "es": "Necesito más información sobre una propiedad",
+        "fr": "J’ai besoin d’informations supplémentaires sur un logement",
+        "it": "Mi servono ulteriori informazioni su proprietà",
+        "nl": "Ik heb aanvullende informatie over een accommodatie/navraag nodig",
+        "pt": "Preciso de informação adicional sobre uma propriedade"
+      }
+    },
+    "help_finding_the_right_property___i_want_additional_information_about_an_equiry": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_finding_property.en,
+        "de": dependent_l18n.parent_label.guest_finding_property.de,
+        "es": dependent_l18n.parent_label.guest_finding_property.es,
+        "fr": dependent_l18n.parent_label.guest_finding_property.fr,
+        "it": dependent_l18n.parent_label.guest_finding_property.it,
+        "nl": dependent_l18n.parent_label.guest_finding_property.nl,
+        "pt": dependent_l18n.parent_label.guest_finding_property.pt
+      },
+      "label": {
+        "en": "I want additional information about an enquiry",
+        "de": "Ich brauche zusätzliche Angaben zu einer Anfrage",
+        "es": "Necesito más información sobre una consulta",
+        "fr": "J’ai besoin d’informations supplémentaires sur une demande",
+        "it": "Mi servono ulteriori informazioni su richiesta di informazioni",
+        "nl": "Ik heb aanvullende informatie over een accommodatie/navraag nodig",
+        "pt": "Preciso de informação adicional sobre uma consulta"
+      }
+    },
+    "payment_questions__i_need_assistance_to_make_a_payment": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_payment_questions.en,
+        "de": dependent_l18n.parent_label.guest_payment_questions.de,
+        "es": dependent_l18n.parent_label.guest_payment_questions.es,
+        "fr": dependent_l18n.parent_label.guest_payment_questions.fr,
+        "it": dependent_l18n.parent_label.guest_payment_questions.it,
+        "nl": dependent_l18n.parent_label.guest_payment_questions.nl,
+        "pt": dependent_l18n.parent_label.guest_payment_questions.pt
+      },
+      "label": {
+        "en": "I need assistance to make a payment",
+        "de": "Ich brauche Hilfe mit der Zahlung",
+        "es": "Necesito ayuda para realizar un pago",
+        "fr": "J’ai besoin d’assistance pour effectuer un paiement",
+        "it": "Mi serve assistenza per effettuare un pagamento ",
+        "nl": "Ik heb hulp nodig bij het betalen",
+        "pt": "Preciso de ajuda para efetuar um pagamento"
+      }
+    },
+    "payment_questions__i_want_to_know_what_payment_methods_are_available": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_payment_questions.en,
+        "de": dependent_l18n.parent_label.guest_payment_questions.de,
+        "es": dependent_l18n.parent_label.guest_payment_questions.es,
+        "fr": dependent_l18n.parent_label.guest_payment_questions.fr,
+        "it": dependent_l18n.parent_label.guest_payment_questions.it,
+        "nl": dependent_l18n.parent_label.guest_payment_questions.nl,
+        "pt": dependent_l18n.parent_label.guest_payment_questions.pt
+      },
+      "label": {
+        "en": "I want to know what payment methods are available",
+        "de": "Ich möchte mehr über die Zahlungsweisen erfahren",
+        "es": "Deseo saber cuáles son los métodos de pago disponibles",
+        "fr": "Je souhaite connaître les modalités de paiement disponibles",
+        "it": "Vorrei sapere quali sono le modalità di pagamento disponibili ",
+        "nl": "Ik wil weten welke methodes van betalen ik kan gebruiken",
+        "pt": "Pretendo saber quais os métodos de pagamento disponíveis"
+      }
+    },
+    "payment_questions__i_need_a_receipt_for_my_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_payment_questions.en,
+        "de": dependent_l18n.parent_label.guest_payment_questions.de,
+        "es": dependent_l18n.parent_label.guest_payment_questions.es,
+        "fr": dependent_l18n.parent_label.guest_payment_questions.fr,
+        "it": dependent_l18n.parent_label.guest_payment_questions.it,
+        "nl": dependent_l18n.parent_label.guest_payment_questions.nl,
+        "pt": dependent_l18n.parent_label.guest_payment_questions.pt
+      },
+      "label": {
+        "en": "I need a receipt for my booking",
+        "de": "Ich brauche einen Beleg für meine Buchung",
+        "es": "Necesito un recibo de mi reserva",
+        "fr": "J’ai besoin d’une confirmation pour ma réservation",
+        "it": "Mi serve una ricevuta per la mia prenotazione",
+        "nl": "Ik heb een ontvangstbewijs van mijn reservering nodig",
+        "pt": "Preciso de um recibo para a minha reserva"
+      }
+    },
+    "payment_questions__i_need_a_visa_statement_for_my_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_payment_questions.en,
+        "de": dependent_l18n.parent_label.guest_payment_questions.de,
+        "es": dependent_l18n.parent_label.guest_payment_questions.es,
+        "fr": dependent_l18n.parent_label.guest_payment_questions.fr,
+        "it": dependent_l18n.parent_label.guest_payment_questions.it,
+        "nl": dependent_l18n.parent_label.guest_payment_questions.nl,
+        "pt": dependent_l18n.parent_label.guest_payment_questions.pt
+      },
+      "label": {
+        "en": "I need a Visa statement for my booking",
+        "de": "Ich brauche einen Visa-Auszug für meine Buchung",
+        "es": "Necesito un extracto de la tarjeta Visa de mi reserva",
+        "fr": "J'ai besoin d'un reçu de carte Visa pour ma réservation",
+        "it": "Mi serve una dichiarazione per richiedere il Visto per la mia prenotazione",
+        "nl": "Ik heb een Visa verklaring van mijn reservering nodig",
+        "pt": "Preciso de uma declaração Visa para a minha reserva"
+      }
+    },
+    "changing_or_cancelling_a_request_booking__i_want_to_change_the_details_of_my_enquiry": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_change_or_cancel.en,
+        "de": dependent_l18n.parent_label.guest_change_or_cancel.de,
+        "es": dependent_l18n.parent_label.guest_change_or_cancel.es,
+        "fr": dependent_l18n.parent_label.guest_change_or_cancel.fr,
+        "it": dependent_l18n.parent_label.guest_change_or_cancel.it,
+        "nl": dependent_l18n.parent_label.guest_change_or_cancel.nl,
+        "pt": dependent_l18n.parent_label.guest_change_or_cancel.pt
+      },
+      "label": {
+        "en": "I want to change the details of my enquiry",
+        "de": "Ich möchte die Angaben meiner Verfügbarkeitsanfrage ändern",
+        "es": "Deseo cambiar los datos de mi solicitud de disponibilidad",
+        "fr": "Je souhaite modifier les coordonnées de ma demande de disponibilité",
+        "it": "Desidero modificare i dettagli della mia richiesta di disponibilità",
+        "nl": "Ik wil de details van de door mij gestuurde navraag veranderen",
+        "pt": "Pretendo alterar os detalhes da minha consulta de disponibilidade"
+      }
+    },
+    "changing_or_cancelling_a_request_booking__i_need_to_cancel_my_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_change_or_cancel.en,
+        "de": dependent_l18n.parent_label.guest_change_or_cancel.de,
+        "es": dependent_l18n.parent_label.guest_change_or_cancel.es,
+        "fr": dependent_l18n.parent_label.guest_change_or_cancel.fr,
+        "it": dependent_l18n.parent_label.guest_change_or_cancel.it,
+        "nl": dependent_l18n.parent_label.guest_change_or_cancel.nl,
+        "pt": dependent_l18n.parent_label.guest_change_or_cancel.pt
+      },
+      "label": {
+        "en": "I need to cancel my booking",
+        "de": "Ich muss meine Buchung stornieren",
+        "es": "Deseo cancelar mi reserva",
+        "fr": "Je dois annuler ma réservation",
+        "it": "Devo cancellare la mia prenotazione",
+        "nl": "Ik moet mijn reservering annuleren",
+        "pt": "Preciso de cancelar a minha reserva"
+      }
+    },
+    "changing_or_cancelling_a_request_booking__i_need_to_change_my_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_change_or_cancel.en,
+        "de": dependent_l18n.parent_label.guest_change_or_cancel.de,
+        "es": dependent_l18n.parent_label.guest_change_or_cancel.es,
+        "fr": dependent_l18n.parent_label.guest_change_or_cancel.fr,
+        "it": dependent_l18n.parent_label.guest_change_or_cancel.it,
+        "nl": dependent_l18n.parent_label.guest_change_or_cancel.nl,
+        "pt": dependent_l18n.parent_label.guest_change_or_cancel.pt
+      },
+      "label": {
+        "en": "I need to change my booking",
+        "de": "Ich muss meine Buchung ändern",
+        "es": "Deseo cambiar mi reserva",
+        "fr": "Je dois modifier ma réservation",
+        "it": "Devo modificare la mia prenotazione",
+        "nl": "Ik moet mijn reservering wijzigen",
+        "pt": "Preciso de alterar a minha reserva"
+      }
+    },
+    "changing_or_cancelling_a_request_booking__the_host_has_cancelled_my_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_change_or_cancel.en,
+        "de": dependent_l18n.parent_label.guest_change_or_cancel.de,
+        "es": dependent_l18n.parent_label.guest_change_or_cancel.es,
+        "fr": dependent_l18n.parent_label.guest_change_or_cancel.fr,
+        "it": dependent_l18n.parent_label.guest_change_or_cancel.it,
+        "nl": dependent_l18n.parent_label.guest_change_or_cancel.nl,
+        "pt": dependent_l18n.parent_label.guest_change_or_cancel.pt
+      },
+      "label": {
+        "en": "The Host has cancelled my booking",
+        "de": "Der Gastgeber hat meine Buchung storniert",
+        "es": "El propietario ha cancelado mi reserva",
+        "fr": "Le propriétaire a annulé ma réservation",
+        "it": "Il proprietario ha cancellato la mia prenotazione ",
+        "nl": "De Gastheer heeft mijn reservering geannuleerd",
+        "pt": "O Proprietário cancelou a minha reserva"
+      }
+    },
+    "changing_or_cancelling_a_request_booking__the_host_has_changed_my_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_change_or_cancel.en,
+        "de": dependent_l18n.parent_label.guest_change_or_cancel.de,
+        "es": dependent_l18n.parent_label.guest_change_or_cancel.es,
+        "fr": dependent_l18n.parent_label.guest_change_or_cancel.fr,
+        "it": dependent_l18n.parent_label.guest_change_or_cancel.it,
+        "nl": dependent_l18n.parent_label.guest_change_or_cancel.nl,
+        "pt": dependent_l18n.parent_label.guest_change_or_cancel.pt
+      },
+      "label": {
+        "en": "The Host has changed my booking",
+        "de": "Der Gastgeber hat meine Buchung geändert",
+        "es": "El propietario ha cambiado mi reserva",
+        "fr": "Le propriétaire a modifié ma réservation",
+        "it": "Il proprietario ha modificato la mia prenotazione",
+        "nl": "De Gastheer heeft mijn reservering veranderd",
+        "pt": "O Proprietário alterou a minha reserva"
+      }
+    },
+    "help_before_check_in__i_need_more_information_about_the_check_in_process": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_checkin_help.en,
+        "de": dependent_l18n.parent_label.guest_checkin_help.de,
+        "es": dependent_l18n.parent_label.guest_checkin_help.es,
+        "fr": dependent_l18n.parent_label.guest_checkin_help.fr,
+        "it": dependent_l18n.parent_label.guest_checkin_help.it,
+        "nl": dependent_l18n.parent_label.guest_checkin_help.nl,
+        "pt": dependent_l18n.parent_label.guest_checkin_help.pt
+      },
+      "label": {
+        "en": "I need more information about the check-in process",
+        "de": "Ich brauche mehr Angaben zum Check-in-Ablauf",
+        "es": "Deseo más información sobre el proceso de entrada",
+        "fr": "J’ai besoin de plus d’informations sur la procédure d’arrivée",
+        "it": "Vorrei ricevere ulteriori informazioni sui costi aggiuntivi",
+        "nl": "Ik heb meer informatie over het aankomst proces nodig",
+        "pt": "Preciso de mais informações sobre o check-in em curso"
+      }
+    },
+    "help_before_check_in__i_want_to_contact_a_host_after_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_checkin_help.en,
+        "de": dependent_l18n.parent_label.guest_checkin_help.de,
+        "es": dependent_l18n.parent_label.guest_checkin_help.es,
+        "fr": dependent_l18n.parent_label.guest_checkin_help.fr,
+        "it": dependent_l18n.parent_label.guest_checkin_help.it,
+        "nl": dependent_l18n.parent_label.guest_checkin_help.nl,
+        "pt": dependent_l18n.parent_label.guest_checkin_help.pt
+      },
+      "label": {
+        "en": "I want to contact a Host after booking",
+        "de": "Ich möchte einen Gastgeber nach abgeschlossener Buchung kontaktieren",
+        "es": "Deseo contactar un propietario antes de reservar",
+        "fr": "Je souhaite contacter un propriétaire après réserver",
+        "it": "Vorrei contattare un proprietario dopo la prenotazione",
+        "nl": "Ik heb hulp nodig om met mijn Gastheer in contact te treden/te communiceren",
+        "pt": "Pretendo contactar un proprietário depois de reservar"
+      }
+    },
+    "help_during_stay__i_need_help_contacting_communicating_with_my_host": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_help_during_stay.en,
+        "de": dependent_l18n.parent_label.guest_help_during_stay.de,
+        "es": dependent_l18n.parent_label.guest_help_during_stay.es,
+        "fr": dependent_l18n.parent_label.guest_help_during_stay.fr,
+        "it": dependent_l18n.parent_label.guest_help_during_stay.it,
+        "nl": dependent_l18n.parent_label.guest_help_during_stay.nl,
+        "pt": dependent_l18n.parent_label.guest_help_during_stay.pt
+      },
+      "label": {
+        "en": "I need help contacting/communicating with my Host",
+        "de": "Ich brauche Hilfe bei der Kontaktaufnahme \/ Kommunikation mit dem Gastgeber",
+        "es": "Necesito ayuda para contactar/comunicarme con el propietario",
+        "fr": "J’ai besoin d’aide pour contacter/communiquer avec mon propriétaire",
+        "it": "Mi serve aiuto per contattare/comunicare con il mio proprietario",
+        "nl": "Ik heb hulp nodig om met mijn Gastheer in contact te treden/te communiceren",
+        "pt": "Preciso de ajuda para contactar/comunicar com o Proprietário"
+      }
+    },
+    "help_during_stay__the_property_i_booked_is_not_as_advertised_expected": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_help_during_stay.en,
+        "de": dependent_l18n.parent_label.guest_help_during_stay.de,
+        "es": dependent_l18n.parent_label.guest_help_during_stay.es,
+        "fr": dependent_l18n.parent_label.guest_help_during_stay.fr,
+        "it": dependent_l18n.parent_label.guest_help_during_stay.it,
+        "nl": dependent_l18n.parent_label.guest_help_during_stay.nl,
+        "pt": dependent_l18n.parent_label.guest_help_during_stay.pt
+      },
+      "label": {
+        "en": "The property I booked is not as advertised/expected",
+        "de": "Die gebuchte Ferienwohnung entspricht nicht den Angaben/meinen Erwartungen",
+        "es": "La propiedad que reservé no es lo que se anunciaba/lo que yo esperaba",
+        "fr": "Le logement que j’ai réservé ne correspond pas au descriptif/à mes attentes",
+        "it": "La proprietà che ho prenotato non è conforme all'annuncio pubblicato/come mi aspettavo",
+        "nl": "De gereserveerde accommodatie voldoet niet aan de advertentie/mijn verwachtingen",
+        "pt": "A propriedade que reservei não corresponde ao anúncio/à expetativa"
+      }
+    },
+    "help_during_stay__i_need_help_regarding_additional_fees": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_help_during_stay.en,
+        "de": dependent_l18n.parent_label.guest_help_during_stay.de,
+        "es": dependent_l18n.parent_label.guest_help_during_stay.es,
+        "fr": dependent_l18n.parent_label.guest_help_during_stay.fr,
+        "it": dependent_l18n.parent_label.guest_help_during_stay.it,
+        "nl": dependent_l18n.parent_label.guest_help_during_stay.nl,
+        "pt": dependent_l18n.parent_label.guest_help_during_stay.pt
+      },
+      "label": {
+        "en": "I need help regarding additional fees",
+        "de": "Ich brauche Hilfe zu den zusätzlichen Gebühren",
+        "es": "Necesito ayuda con respecto a los cargos adicionales",
+        "fr": "J’ai besoin d’aide au sujet des frais supplémentaires",
+        "it": "Mi serve aiuto per i costi aggiuntivi",
+        "nl": "Ik heb hulp nodig met betrekking tot extra kosten",
+        "pt": "Preciso de ajuda em relação às taxas adicionais"
+      }
+    },
+    "housetrip__loyalty_program__how_does_housetrip__work_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_housetrip__loyalty_program.en,
+        "de": dependent_l18n.parent_label.guest_housetrip__loyalty_program.de,
+        "es": dependent_l18n.parent_label.guest_housetrip__loyalty_program.es,
+        "fr": dependent_l18n.parent_label.guest_housetrip__loyalty_program.fr,
+        "it": dependent_l18n.parent_label.guest_housetrip__loyalty_program.it,
+        "nl": dependent_l18n.parent_label.guest_housetrip__loyalty_program.nl,
+        "pt": dependent_l18n.parent_label.guest_housetrip__loyalty_program.pt
+      },
+      "label": {
+        "en": "How does HouseTrip+ work?",
+        "de": "Wie funktioniert HouseTrip+?",
+        "es": "¿Cómo funciona HouseTrip+?”",
+        "fr": "Comment fonctionne HouseTrip+ ?",
+        "it": "Come funziona HouseTrip+?",
+        "nl": "Rapporteren van een probleem",
+        "pt": "Como funciona a HouseTrip+?"
+      }
+    },
+    "housetrip__loyalty_program__am_i_eligible_to_take_part_in_the_housetrip__guest_loyalty_program_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_housetrip__loyalty_program.en,
+        "de": dependent_l18n.parent_label.guest_housetrip__loyalty_program.de,
+        "es": dependent_l18n.parent_label.guest_housetrip__loyalty_program.es,
+        "fr": dependent_l18n.parent_label.guest_housetrip__loyalty_program.fr,
+        "it": dependent_l18n.parent_label.guest_housetrip__loyalty_program.it,
+        "nl": dependent_l18n.parent_label.guest_housetrip__loyalty_program.nl,
+        "pt": dependent_l18n.parent_label.guest_housetrip__loyalty_program.pt
+      },
+      "label": {
+        "en": "Am I eligible to take part in the HouseTrip+ Guest Loyalty Program?",
+        "de": "Komme ich für eine Teilnahme am Housetrip+ Treueprogramm in Frage?",
+        "es": "¿Puedo formar parte del Programa de Fidelidad para Huéspedes HouseTrip+?”",
+        "fr": "Suis je eligible pour participer au plan de fidélisation des locataires ?",
+        "it": "Ho diritto anch’io a prendere parte al programma “Fedeltá Ospiti. HouseTrip+”?",
+        "nl": "Kom ik in aanmerking om deel te nemen aan het HouseTrip + gast loyaliteitsprogramma?",
+        "pt": "Tenho direito a participar no Programa de Fidelização de Hóspedes HouseTrip+?"
+      }
+    },
+    "housetrip__loyalty_program__where_can_i_see_if_i_have_earned_a_free__night_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_housetrip__loyalty_program.en,
+        "de": dependent_l18n.parent_label.guest_housetrip__loyalty_program.de,
+        "es": dependent_l18n.parent_label.guest_housetrip__loyalty_program.es,
+        "fr": dependent_l18n.parent_label.guest_housetrip__loyalty_program.fr,
+        "it": dependent_l18n.parent_label.guest_housetrip__loyalty_program.it,
+        "nl": dependent_l18n.parent_label.guest_housetrip__loyalty_program.nl,
+        "pt": dependent_l18n.parent_label.guest_housetrip__loyalty_program.pt
+      },
+      "label": {
+        "en": "Where can I see if I have earned a Free* Night?",
+        "de": "Woran kann ich erkennen, ob ich mich für eine Gratisnacht* qualifiziere?",
+        "es": "¿Dónde puedo consultar si he ganado una Noche gratis*?",
+        "fr": "Où puis-je voir si j’ai obtenu une nuit gratuite* ?",
+        "it": "Dopo posso vedere se ho guadagnato una Notte gratis*?",
+        "nl": "Kom ik in aanmerking om deel te nemen aan het HouseTrip + gast loyaliteitsprogramma?",
+        "pt": "Onde posso ver se ganhei uma Noite Gratuita*?"
+      }
+    },
+    "housetrip__loyalty_program__how_do_i_redeem_a_free__night_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.guest_housetrip__loyalty_program.en,
+        "de": dependent_l18n.parent_label.guest_housetrip__loyalty_program.de,
+        "es": dependent_l18n.parent_label.guest_housetrip__loyalty_program.es,
+        "fr": dependent_l18n.parent_label.guest_housetrip__loyalty_program.fr,
+        "it": dependent_l18n.parent_label.guest_housetrip__loyalty_program.it,
+        "nl": dependent_l18n.parent_label.guest_housetrip__loyalty_program.nl,
+        "pt": dependent_l18n.parent_label.guest_housetrip__loyalty_program.pt
+      },
+      "label": {
+        "en": "How do I redeem a Free* Night?",
+        "de": "Wie löse ich eine Gratisnacht* ein?",
+        "es": "¿Cómo uso una Noche gratis*?",
+        "fr": "Comment utiliser une nuit gratuite* ?",
+        "it": "Come riscatto una Notte gratis*?",
+        "nl": "Kom ik in aanmerking om deel te nemen aan het HouseTrip + gast loyaliteitsprogramma?",
+        "pt": "Como devo proceder para resgatar uma Noite Gratuita*?"
+      }
+    },
+    "report_a_bug__report_a_bug": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.report_bug.en,
+        "de": dependent_l18n.parent_label.report_bug.de,
+        "es": dependent_l18n.parent_label.report_bug.es,
+        "fr": dependent_l18n.parent_label.report_bug.fr,
+        "it": dependent_l18n.parent_label.report_bug.it,
+        "nl": dependent_l18n.parent_label.report_bug.nl,
+        "pt": dependent_l18n.parent_label.report_bug.pt
+      },
+      "label": {
+        "en": "Report a Bug",
+        "de": "Ich möchte einen Fehler melden",
+        "es": "Informar de un Error",
+        "fr": "Signaler un bug",
+        "it": "Segnalare un bug",
+        "nl": "Rapporteren van een probleem",
+        "pt": "Comunicar um erro"
+      }
+    },
+    "booking_process__i_received_an_availability_enquiry_from_a_guest__what_does_it_mean_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "I received an Availability Enquiry from a Guest, what does it mean?",
+        "de": "Ich habe eine Verfügbarkeitsanfrage von einem Gast erhalten. Was bedeutet das?",
+        "es": "He recibido una solicitud de disponibilidad de un huésped, ¿qué significa?",
+        "fr": "J’ai reçu une demande de disponibilité d’un Locataire, qu’est-ce que cela signifie ?",
+        "it": "Ho ricevuto una richiesta di informazioni sulla disponibilità  da un Ospite, cosa significa?",
+        "nl": "I heb een beschikbaarheidsnavraag van een Gast ontvangen, wat betekend dat?",
+        "pt": "Recebi uma Consulta de disponibilidade de um Hóspede. O que significa?"
+      }
+    },
+    "booking_process__how_is_an_availability_enquiry_different_from_a_booking_request_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "How is an Availability Enquiry different from a booking request?",
+        "de": "Inwieweit unterscheidet sich die Verfügbarkeitsanfrage von der Buchungsanfrage?",
+        "es": "¿En qué se diferencia una solicitud de disponibilidad de una solicitud de reserva?",
+        "fr": "En quoi une demande de disponibilité diffère-t-elle d’une demande de réservation ?",
+        "it": "In cosa differisce una richiesta di disponibilità da una richiesta di prenotazione?",
+        "nl": "Wat is het verschil tussen een beschikbaarheidsnavraag en een reserveringsaanvraag?",
+        "pt": "Em que difere uma Consulta de disponibilidade de um pedido de reserva?"
+      }
+    },
+    "booking_process__i_want_to_know_how_long_can_a_guest_take_to_book": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "I want to know how long can a Guest take to book",
+        "de": "Ich möchte wissen, wie lange ein Gast die Buchung aufschieben kann",
+        "es": "Deseo saber cuánto le puede tomar a un huésped hacer una reserva",
+        "fr": "Je souhaite savoir de combien de temps un Locataire dispose pour effectuer une réservation",
+        "it": "Vorrei sapere quanto tempo può impiegare un Ospite per prenotare",
+        "nl": "Ik wil weten hoe lang het reserveren van een klant kan duren",
+        "pt": "Pretendo saber quanto tempo tem um Hóspede para efetuar uma reserva"
+      }
+    },
+    "booking_process__i_want_to_know_more_about_my_guests_before_i_confirm_a_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "I want to know more about my Guests before I confirm a booking",
+        "de": "Ich möchte mehr über die Gäste erfahren, bevor ich die Buchung bestätige",
+        "es": "Deseo más información sobre el huésped antes de confirmar su reserva",
+        "fr": "Je souhaite en savoir plus sur mes locataires avant de confirmer une réservation",
+        "it": "Prima di confermare la prenotazione, vorrei avere ulteriori informazioni sui miei ospiti",
+        "nl": "Ik wil, voordat ik een reservering bevestig, meer over mijn Gasten weten",
+        "pt": "Pretendo saber mais sobre os meus Hóspedes antes de confirmar uma reserva"
+      }
+    },
+    "booking_process__i_want_to_know_what_happens_after_i_ve_confirmed_a_booking_request": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "I want to know what happens after I've confirmed a booking request",
+        "de": "Ich möchte wissen, was nach Bestätigung einer Buchungsanfrage als nächstes erfolgt",
+        "es": "Deseo saber qué sucederá una vez confirme la solicitud de reserva",
+        "fr": "Je souhaite savoir ce qui se passe une fois que j’ai confirmé une demande de réservation",
+        "it": "Vorrei sapere cosa succede dopo che ho confermato una richiesta di prenotazione",
+        "nl": "Ik heb aanvullende informatie over een accommodatie/navraag nodig",
+        "pt": "Pretende saber o que acontece após confirmar um pedido de reserva"
+      }
+    },
+    "booking_process__i_have_received_an_enquiry_for_a_shorter_stay_than_i_can_accept": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "I have received an enquiry for a shorter stay than I can accept",
+        "de": "Ich habe eine Anfrage für einen kürzeren als von mir festgelegten Aufenthalt erhalten",
+        "es": "He recibido una consulta para una estancia más corta que puedo aceptar",
+        "fr": "J’ai reçu une demande pour un séjour plus court que la durée que je peux accepter",
+        "it": "Ho ricevuto una richiesta per un soggiorno più breve che posso accettare",
+        "nl": "Ik heb aanvullende informatie over een accommodatie/navraag nodig",
+        "pt": "Recebi um pedido para uma estadia mais curta do que posso aceitar"
+      }
+    },
+    "booking_process__i_have_received_an_availability_enquiry__how_do_i_propose_an_alternative_property__price_or_dates_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "I have received an Availability Enquiry, how do I propose an alternative property, price or dates?",
+        "de": "Ich habe eine Verfügbarkeitsanfrage erhalten. Wie kann ich eine alternative Ferienwohnung, einen anderen Preis oder andere Termine vorschlagen?",
+        "es": "He recibido una solicitud de disponibilidad, ¿cómo puedo proponer una propiedad, precio y fechas alternativas?",
+        "fr": "J’ai reçu une demande de disponibilité, comment puis-je proposer un autre logement, un autre prix ou d’autres dates ?",
+        "it": "Ho ricevuto una Richiesta di informazioni sulla disponibilità, come propongo una proprietà, un prezzo o delle date in alternativa?",
+        "nl": "Ik heb aanvullende informatie over een accommodatie/navraag nodig",
+        "pt": "Recebi uma Consulta de disponibilidade. Como posso propor uma propriedade, preço ou datas alternativos?"
+      }
+    },
+    "booking_process__do_i_need_to_create_set_a_contract_with_my_guest_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "Do I need to create/set a contract with my Guest?",
+        "de": "Muss ich einen Vertrag mit dem Gast aufsetzen?",
+        "es": "¿Necesito crear/fijar un contrato con mi Huésped?",
+        "fr": "Ai-je besoin de créer/établir un contrat avec mon Locataire ?",
+        "it": "Ho bisogno di creare/impostare un contratto con il mio Ospite?",
+        "nl": "Ik heb aanvullende informatie over een accommodatie/navraag nodig",
+        "pt": "Preciso de criar/definir um contrato com o meu Hóspede"
+      }
+    },
+    "booking_process__why_do_i_receive_so_many_availability_enquiries_and_no_booking_requests": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_process.en,
+        "de": dependent_l18n.parent_label.host_booking_process.de,
+        "es": dependent_l18n.parent_label.host_booking_process.es,
+        "fr": dependent_l18n.parent_label.host_booking_process.fr,
+        "it": dependent_l18n.parent_label.host_booking_process.it,
+        "nl": dependent_l18n.parent_label.host_booking_process.nl,
+        "pt": dependent_l18n.parent_label.host_booking_process.pt
+      },
+      "label": {
+        "en": "Why do I receive so many Availability Enquiries and no Booking Requests",
+        "de": "Warum erhalte ich so viele Verfügbarkeitsanfragen aber keine Buchungsanfragen?“",
+        "es": "¿Por qué recibo tantas solicitudes de disponibilidad y solicitudes de reserva",
+        "fr": "Comment se fait-il que je reçoive autant de demandes de disponibilité et aucune demande de réservation ?",
+        "it": "Per quale motivo ricevo così tante Richieste di informazioni sulla disponibilità e nessuna Richiesta di prenotazione?",
+        "nl": "Ik heb aanvullende informatie over een accommodatie/navraag nodig",
+        "pt": "Porque recebo tantas Consultas de disponibilidade e nenhum Pedido de reserva"
+      }
+    },
+    "report_a_bug__i_want_to_report_a_bug": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.report_bug.en,
+        "de": dependent_l18n.parent_label.report_bug.de,
+        "es": dependent_l18n.parent_label.report_bug.es,
+        "fr": dependent_l18n.parent_label.report_bug.fr,
+        "it": dependent_l18n.parent_label.report_bug.it,
+        "nl": dependent_l18n.parent_label.report_bug.nl,
+        "pt": dependent_l18n.parent_label.report_bug.pt
+      },
+      "label": {
+        "en": "I want to report a bug",
+        "de": "Ich möchte einen Fehler melden",
+        "es": "Deseo informar de un error",
+        "fr": "Je souhaite signaler un bug",
+        "it": "Vorrei segnalare un bug",
+        "nl": "Ik wil een probleem rapporteren",
+        "pt": "Pretendo comunicar um erro"
+      }
+    },
+    "report_a_bug__i_ve_received_an_availability_enquiry_with_a_wrong_price": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.report_bug.en,
+        "de": dependent_l18n.parent_label.report_bug.de,
+        "es": dependent_l18n.parent_label.report_bug.es,
+        "fr": dependent_l18n.parent_label.report_bug.fr,
+        "it": dependent_l18n.parent_label.report_bug.it,
+        "nl": dependent_l18n.parent_label.report_bug.nl,
+        "pt": dependent_l18n.parent_label.report_bug.pt
+      },
+      "label": {
+        "en": "I've received an Availability Enquiry with a wrong price",
+        "de": "Ich habe eine Verfügbarkeitsanfrage mit einem falschen Mietpreis erhalten",
+        "es": "He recibido una solicitud de disponibilidad con un precio erróneo",
+        "fr": "J’ai reçu une demande de disponibilité avec un prix erroné",
+        "it": "Ho ricevuto una Richiesta di informazioni sulla disponibilità con un prezzo sbagliato",
+        "nl": "Ik wil een probleem rapporteren",
+        "pt": "Recebi uma Consulta de disponibilidade com o preço errado"
+      }
+    },
+    "report_a_bug__i_have_an_issue_with_my_external_calendar": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.report_bug.en,
+        "de": dependent_l18n.parent_label.report_bug.de,
+        "es": dependent_l18n.parent_label.report_bug.es,
+        "fr": dependent_l18n.parent_label.report_bug.fr,
+        "it": dependent_l18n.parent_label.report_bug.it,
+        "nl": dependent_l18n.parent_label.report_bug.nl,
+        "pt": dependent_l18n.parent_label.report_bug.pt
+      },
+      "label": {
+        "en": "I have an issue with my external calendar",
+        "de": "Ich habe Probleme mit meinem externen Kalender",
+        "es": "Tengo un problema con mi calendario externo",
+        "fr": "J’ai un problème avec mon calendrier externe",
+        "it": "Ho un problema con il mio calendario esterno",
+        "nl": "Ik wil een probleem rapporteren",
+        "pt": "Tenho uma questão relacionada com o meu calendário externo"
+      }
+    },
+    "guest_reviews__i_want_to_get_a_5_star_rating_on_my_listings": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_guest_reviews.en,
+        "de": dependent_l18n.parent_label.host_guest_reviews.de,
+        "es": dependent_l18n.parent_label.host_guest_reviews.es,
+        "fr": dependent_l18n.parent_label.host_guest_reviews.fr,
+        "it": dependent_l18n.parent_label.host_guest_reviews.it,
+        "nl": dependent_l18n.parent_label.host_guest_reviews.nl,
+        "pt": dependent_l18n.parent_label.host_guest_reviews.pt
+      },
+      "label": {
+        "en": "I want to get a 5-star rating on my listings",
+        "de": "Ich möchte 5-Sterne-Bewertungen für meine Ferienwohnungen erhalten",
+        "es": "Deseo obtener una calificación de 5 estrellas en mis anuncios",
+        "fr": "Je souhaite obtenir une note de 5 étoiles pour mes logements",
+        "it": "Vorrei avere una recensione a cinque stelle sui miei annunci",
+        "nl": "Ik wil een 5-sterren waardering op mijn vermeldingen krijgen",
+        "pt": "Pretendo obter uma classificação de 5 estrelas nos meus anúncios"
+      }
+    },
+    "guest_reviews__i_received_a_low_rating_from_a_guest": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_guest_reviews.en,
+        "de": dependent_l18n.parent_label.host_guest_reviews.de,
+        "es": dependent_l18n.parent_label.host_guest_reviews.es,
+        "fr": dependent_l18n.parent_label.host_guest_reviews.fr,
+        "it": dependent_l18n.parent_label.host_guest_reviews.it,
+        "nl": dependent_l18n.parent_label.host_guest_reviews.nl,
+        "pt": dependent_l18n.parent_label.host_guest_reviews.pt
+      },
+      "label": {
+        "en": "I received a low rating from a Guest",
+        "de": "Ich wurde von einem Gast niedrig bewertet",
+        "es": "Un huésped me ha dado una calificación baja",
+        "fr": "J’ai reçu une mauvaise note d’un Locataire",
+        "it": "Ho ricevuto una recensione bassa da un Ospite",
+        "nl": "Ik heb een lage waardering van een Gast ontvangen",
+        "pt": "Recebi uma classificação baixa de um Hóspede"
+      }
+    },
+    "cancellations__will_i_get_paid_if_a_guest_cancels_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_cancellations.en,
+        "de": dependent_l18n.parent_label.host_cancellations.de,
+        "es": dependent_l18n.parent_label.host_cancellations.es,
+        "fr": dependent_l18n.parent_label.host_cancellations.fr,
+        "it": dependent_l18n.parent_label.host_cancellations.it,
+        "nl": dependent_l18n.parent_label.host_cancellations.nl,
+        "pt": dependent_l18n.parent_label.host_cancellations.pt
+      },
+      "label": {
+        "en": "Will I get paid if a Guest cancels?",
+        "de": "Werde ich bezahlt, wenn der Gast storniert?",
+        "es": "¿Se me pagará si un huésped cancela?",
+        "fr": "Serai-je payé si un Locataire annule sa réservation ?",
+        "it": "In caso di cancellazione da parte dell'Ospite, riceverò il pagamento?",
+        "nl": "Word ik betaald wanneer een Gast annuleert?",
+        "pt": "Serei pago se um Hóspede cancelar?"
+      }
+    },
+    "cancellations__a_guest_wants_to_cancel_a_booking_in_my_property": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_cancellations.en,
+        "de": dependent_l18n.parent_label.host_cancellations.de,
+        "es": dependent_l18n.parent_label.host_cancellations.es,
+        "fr": dependent_l18n.parent_label.host_cancellations.fr,
+        "it": dependent_l18n.parent_label.host_cancellations.it,
+        "nl": dependent_l18n.parent_label.host_cancellations.nl,
+        "pt": dependent_l18n.parent_label.host_cancellations.pt
+      },
+      "label": {
+        "en": "A Guest wants to cancel a booking in my property",
+        "de": "Ein Gast möchte die Buchung meiner Ferienwohnung stornieren",
+        "es": "Un huésped quiere cancelar su reserva en mi propiedad",
+        "fr": "Un Locataire souhaite annuler une réservation dans mon logement",
+        "it": "Un Ospite vuole cancellare una prenotazione per la mia proprietà ",
+        "nl": "Een Gast wil een reservering voor mijn accommodatie  annuleren",
+        "pt": "Um Hóspede pretende cancelar uma reserva na minha propriedade"
+      }
+    },
+    "cancellations__i_cannot_honour_a_guest_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_cancellations.en,
+        "de": dependent_l18n.parent_label.host_cancellations.de,
+        "es": dependent_l18n.parent_label.host_cancellations.es,
+        "fr": dependent_l18n.parent_label.host_cancellations.fr,
+        "it": dependent_l18n.parent_label.host_cancellations.it,
+        "nl": dependent_l18n.parent_label.host_cancellations.nl,
+        "pt": dependent_l18n.parent_label.host_cancellations.pt
+      },
+      "label": {
+        "en": "I cannot honour a Guest booking",
+        "de": "Ich kann die Buchung eines Gasts nicht einhalten",
+        "es": "No puedo mantener la reserva de un huésped",
+        "fr": "Je ne peux honorer la réservation d’un Locataire",
+        "it": "Non posso onorare la prenotazione di un Ospite ",
+        "nl": "I kan een Gast reservatie niet nakomen",
+        "pt": "Não consigo honrar a reserva de um Hóspede"
+      }
+    },
+    "housetrip_charges___additional_fees__i_want_to_learn_more_about_additional_fees": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_addtional_fees.en,
+        "de": dependent_l18n.parent_label.host_addtional_fees.de,
+        "es": dependent_l18n.parent_label.host_addtional_fees.es,
+        "fr": dependent_l18n.parent_label.host_addtional_fees.fr,
+        "it": dependent_l18n.parent_label.host_addtional_fees.it,
+        "nl": dependent_l18n.parent_label.host_addtional_fees.nl,
+        "pt": dependent_l18n.parent_label.host_addtional_fees.pt
+      },
+      "label": {
+        "en": "I want to learn more about additional fees",
+        "de": "Ich möchte mehr über die zusätzlichen Gebühren erfahren",
+        "es": "Deseo saber más sobre los cargos adicionales",
+        "fr": "Je souhaite en savoir davantage sur les frais supplémentaires",
+        "it": "Vorrei ricevere ulteriori informazioni sui costi aggiuntivi",
+        "nl": "Ik wil meer over extra kosten weten",
+        "pt": "Pretendo saber mais sobre taxas adicionais"
+      }
+    },
+    "housetrip_charges___additional_fees__i_want_to_set_up_an_additional_fee_on_my_property": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_addtional_fees.en,
+        "de": dependent_l18n.parent_label.host_addtional_fees.de,
+        "es": dependent_l18n.parent_label.host_addtional_fees.es,
+        "fr": dependent_l18n.parent_label.host_addtional_fees.fr,
+        "it": dependent_l18n.parent_label.host_addtional_fees.it,
+        "nl": dependent_l18n.parent_label.host_addtional_fees.nl,
+        "pt": dependent_l18n.parent_label.host_addtional_fees.pt
+      },
+      "label": {
+        "en": "I want to set up an additional fee on my property",
+        "de": "Ich möchte zusätzliche Gebühren für meine Ferienwohnung einrichten",
+        "es": "Deseo añadir un cargo adicional en mi propiedad",
+        "fr": "Je souhaite définir des frais supplémentaires sur mon logement",
+        "it": "Vorrei impostare un costo aggiuntivo sulla mia proprietà ",
+        "nl": "Ik wil extra kosten voor mijn accommodatie opzetten",
+        "pt": "Pretendo estabelecer uma taxa adicional na minha propriedade"
+      }
+    },
+    "housetrip_charges___additional_fees__does_housetrip_have_a_mark_up_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_addtional_fees.en,
+        "de": dependent_l18n.parent_label.host_addtional_fees.de,
+        "es": dependent_l18n.parent_label.host_addtional_fees.es,
+        "fr": dependent_l18n.parent_label.host_addtional_fees.fr,
+        "it": dependent_l18n.parent_label.host_addtional_fees.it,
+        "nl": dependent_l18n.parent_label.host_addtional_fees.nl,
+        "pt": dependent_l18n.parent_label.host_addtional_fees.pt
+      },
+      "label": {
+        "en": "Does HouseTrip have a mark-up?",
+        "de": "Schlägt HouseTrip eine Provision auf?",
+        "es": "¿Tiene HouseTrip un gasto de gestión?",
+        "fr": "Est-ce que HouseTrip a des frais de service?",
+        "it": "HouseTrip ha una tassa di servizio?",
+        "nl": "Stelt HouseTrip aan Gastheren kosten in rekening?",
+        "pt": "A HouseTrep tem uma comissão?"
+      }
+    },
+    "instant_booking__i_want_to_learn_more_about_instant_booking_": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_instant_booking.en,
+        "de": dependent_l18n.parent_label.host_instant_booking.de,
+        "es": dependent_l18n.parent_label.host_instant_booking.es,
+        "fr": dependent_l18n.parent_label.host_instant_booking.fr,
+        "it": dependent_l18n.parent_label.host_instant_booking.it,
+        "nl": dependent_l18n.parent_label.host_instant_booking.nl,
+        "pt": dependent_l18n.parent_label.host_instant_booking.pt
+      },
+      "label": {
+        "en": "I want to learn more about Instant Booking?",
+        "de": "Ich möchte mehr über Sofortbuchungen erfahren",
+        "es": "Deseo saber más sobre la reserva inmediata",
+        "fr": "Je souhaite en savoir davantage sur la Résa immédiate",
+        "it": "Vorrei avere ulteriori informazioni sulla Prenotazione istantanea ",
+        "nl": "Ik wil meer over onmiddellijke reservering weten",
+        "pt": "Pretendo saber mais sobre a Reserva instantânea"
+      }
+    },
+    "instant_booking__i_want_to_move_my_property_to_instant_booking": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_instant_booking.en,
+        "de": dependent_l18n.parent_label.host_instant_booking.de,
+        "es": dependent_l18n.parent_label.host_instant_booking.es,
+        "fr": dependent_l18n.parent_label.host_instant_booking.fr,
+        "it": dependent_l18n.parent_label.host_instant_booking.it,
+        "nl": dependent_l18n.parent_label.host_instant_booking.nl,
+        "pt": dependent_l18n.parent_label.host_instant_booking.pt
+      },
+      "label": {
+        "en": "I want to move my property to Instant Booking",
+        "de": "Ich möchte meine Ferienwohnung auf Sofortbuchung stellen",
+        "es": "Deseo cambiar mi propiedad a reserva inmediata",
+        "fr": "Je souhaite passer mon logement en Résa immédiate",
+        "it": "Vorrei impostare la mia proprietà sulla modalitá di Prenotazione istantanea ",
+        "nl": "Ik wil mijn accommodatie naar onmiddellijke reservering verplaatsen",
+        "pt": "Pretendo passar a minha propriedade para a Reserva instantânea"
+      }
+    },
+    "help_managing_my_host_account__i_need_help_editing_my_personal_details": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.help_managing_my_host_account.en,
+        "de": dependent_l18n.parent_label.help_managing_my_host_account.de,
+        "es": dependent_l18n.parent_label.help_managing_my_host_account.es,
+        "fr": dependent_l18n.parent_label.help_managing_my_host_account.fr,
+        "it": dependent_l18n.parent_label.help_managing_my_host_account.it,
+        "nl": dependent_l18n.parent_label.help_managing_my_host_account.nl,
+        "pt": dependent_l18n.parent_label.help_managing_my_host_account.pt
+      },
+      "label": {
+        "en": "I need help editing my personal details",
+        "de": "Ich benötige Hilfe bei der Bearbeitung meiner persönlichen Angaben",
+        "es": "Necesito ayuda para editar mis datos personales",
+        "fr": "J’ai besoin d’aide pour corriger mes coordonnées personnelles",
+        "it": "Mi serve aiuto per modificare le mie informazioni personali ",
+        "nl": "Ik heb hulp bij het bewerken van mijn persoonlijke details nodig",
+        "pt": "Preciso de ajuda para editar os meus dados pessoais"
+      }
+    },
+    "help_managing_my_host_account__i_want_to_delete_my_host_account": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.help_managing_my_host_account.en,
+        "de": dependent_l18n.parent_label.help_managing_my_host_account.de,
+        "es": dependent_l18n.parent_label.help_managing_my_host_account.es,
+        "fr": dependent_l18n.parent_label.help_managing_my_host_account.fr,
+        "it": dependent_l18n.parent_label.help_managing_my_host_account.it,
+        "nl": dependent_l18n.parent_label.help_managing_my_host_account.nl,
+        "pt": dependent_l18n.parent_label.help_managing_my_host_account.pt
+      },
+      "label": {
+        "en": "I want to delete my Host account",
+        "de": "Ich möchte mein Gastgeberkonto löschen",
+        "es": "Deseo borrar mi cuenta de propietario",
+        "fr": "Je souhaite supprimer mon compte Propriétaire",
+        "it": "Vorrei cancellare il mio account da Proprietario ",
+        "nl": "Ik wil mijn Gastheer rekening sluiten",
+        "pt": "Pretendo eliminar a minha conta de Proprietário"
+      }
+    },
+    "help_managing_my_host_account__i_want_to_reset_my_password": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.help_managing_my_host_account.en,
+        "de": dependent_l18n.parent_label.help_managing_my_host_account.de,
+        "es": dependent_l18n.parent_label.help_managing_my_host_account.es,
+        "fr": dependent_l18n.parent_label.help_managing_my_host_account.fr,
+        "it": dependent_l18n.parent_label.help_managing_my_host_account.it,
+        "nl": dependent_l18n.parent_label.help_managing_my_host_account.nl,
+        "pt": dependent_l18n.parent_label.help_managing_my_host_account.pt
+      },
+      "label": {
+        "en": "I want to reset my password",
+        "de": "Ich möchte mein Kennwort zurücksetzen",
+        "es": "Deseo restablecer mi contraseña",
+        "fr": "Je souhaite réinitialiser mon mot de passe",
+        "it": "Vorrei reimpostare la mia password ",
+        "nl": "Ik wil mijn wachtwoord herstellen",
+        "pt": "Pretendo redefinir a minha palavra-passe"
+      }
+    },
+    "help_managing_my_property_listings__i_need_help_editing_my_property_details": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_managing_property_listings.en,
+        "de": dependent_l18n.parent_label.host_managing_property_listings.de,
+        "es": dependent_l18n.parent_label.host_managing_property_listings.es,
+        "fr": dependent_l18n.parent_label.host_managing_property_listings.fr,
+        "it": dependent_l18n.parent_label.host_managing_property_listings.it,
+        "nl": dependent_l18n.parent_label.host_managing_property_listings.nl,
+        "pt": dependent_l18n.parent_label.host_managing_property_listings.pt
+      },
+      "label": {
+        "en": "I need help editing my property details",
+        "de": "Ich benötige Hilfe bei der Bearbeitung der Angaben zu meinen Ferienwohnungen",
+        "es": "Necesito ayuda para editar los datos de mis propiedades",
+        "fr": "J’ai besoin d’aide pour corriger les coordonnées de mon logement",
+        "it": "Mi serve aiuto per modificare le informazioni sulla mia proprietà ",
+        "nl": "Ik heb hulp bij het bewerken van mijn accomodatie details nodig",
+        "pt": "Preciso de ajuda para editar os dados da minha propriedade"
+      }
+    },
+    "help_managing_my_property_listings__i_want_to_edit_my_property_rates_or_set_new_rates": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_managing_property_listings.en,
+        "de": dependent_l18n.parent_label.host_managing_property_listings.de,
+        "es": dependent_l18n.parent_label.host_managing_property_listings.es,
+        "fr": dependent_l18n.parent_label.host_managing_property_listings.fr,
+        "it": dependent_l18n.parent_label.host_managing_property_listings.it,
+        "nl": dependent_l18n.parent_label.host_managing_property_listings.nl,
+        "pt": dependent_l18n.parent_label.host_managing_property_listings.pt
+      },
+      "label": {
+        "en": "I want to edit my property rates or set new rates",
+        "de": "Ich möchte die Mietpreise meiner Ferienwohnungen bearbeiten oder neue Mietpreise eingeben",
+        "es": "Deseo editar las tarifas o crear nuevas tarifas para mis propiedades",
+        "fr": "Je souhaite modifier les tarifs de mon logement ou définir de nouveaux tarifs",
+        "it": "Vorrei modificare le tariffe o impostare nuove tariffe per la mia proprietà  ",
+        "nl": "Ik wil mijn  accomodatieprijzen bewerken of nieuwe prijzen invoeren",
+        "pt": "Pretendo editar as tarifas da minha propriedade ou definir novas tarifas"
+      }
+    },
+    "help_managing_my_property_listings__i_want_to_remove_my_listing_from_housetrip": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_managing_property_listings.en,
+        "de": dependent_l18n.parent_label.host_managing_property_listings.de,
+        "es": dependent_l18n.parent_label.host_managing_property_listings.es,
+        "fr": dependent_l18n.parent_label.host_managing_property_listings.fr,
+        "it": dependent_l18n.parent_label.host_managing_property_listings.it,
+        "nl": dependent_l18n.parent_label.host_managing_property_listings.nl,
+        "pt": dependent_l18n.parent_label.host_managing_property_listings.pt
+      },
+      "label": {
+        "en": "I want to remove my listing from HouseTrip",
+        "de": "Ich möchte eine Ferienwohnung aus HouseTrip löschen",
+        "es": "Deseo eliminar mi anuncio de HouseTrip",
+        "fr": "Je souhaite retirer mon logement de HouseTrip",
+        "it": "Vorrei eliminare  il mio annuncio da HouseTrip",
+        "nl": "Ik wil mijn vermelding van HouseTrip verwijderen",
+        "pt": "Pretendo remover o meu anúncio da HouseTrip"
+      }
+    },
+    "help_managing_my_property_listings__i_want_to_edit_my_property_calendar": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_managing_property_listings.en,
+        "de": dependent_l18n.parent_label.host_managing_property_listings.de,
+        "es": dependent_l18n.parent_label.host_managing_property_listings.es,
+        "fr": dependent_l18n.parent_label.host_managing_property_listings.fr,
+        "it": dependent_l18n.parent_label.host_managing_property_listings.it,
+        "nl": dependent_l18n.parent_label.host_managing_property_listings.nl,
+        "pt": dependent_l18n.parent_label.host_managing_property_listings.pt
+      },
+      "label": {
+        "en": "I want to edit my property calendar",
+        "de": "Ich möchte meinen HouseTrip Kalender bearbeiten",
+        "es": "Deseo editar el calendario de mis propiedades",
+        "fr": "Je souhaite modifier le calendrier de mon logement",
+        "it": "Vorrei modificare il calendario della mia proprietà ",
+        "nl": "Ik wil de agenda van mijn  accomodaties bewerken",
+        "pt": "Pretendo editar o calendário da minha propriedade"
+      }
+    },
+    "help_managing_my_property_listings__i_want_to_transfer_property_listings_between_different_accounts": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_managing_property_listings.en,
+        "de": dependent_l18n.parent_label.host_managing_property_listings.de,
+        "es": dependent_l18n.parent_label.host_managing_property_listings.es,
+        "fr": dependent_l18n.parent_label.host_managing_property_listings.fr,
+        "it": dependent_l18n.parent_label.host_managing_property_listings.it,
+        "nl": dependent_l18n.parent_label.host_managing_property_listings.nl,
+        "pt": dependent_l18n.parent_label.host_managing_property_listings.pt
+      },
+      "label": {
+        "en": "I want to transfer property listings between different accounts",
+        "de": "Ich möchte meine Ferienwohnungen auf ein anderes Konto übertragen",
+        "es": "Deseo transferir anuncios de propiedades a otra cuenta",
+        "fr": "Je souhaite transférer mes logements entre différents comptes",
+        "it": "Vorrei trasferire gli annunci delle mie proprietà tra account diversi ",
+        "nl": "Ik wil accommodatie vermeldingen naar andere rekeningen verplaatsen",
+        "pt": "Pretendo transferir anúncios de propriedade entre diferentes contas"
+      }
+    },
+    "payment_questions__i_want_to_know_when_and_how_do_i_get_paid": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_payment_questions.en,
+        "de": dependent_l18n.parent_label.host_payment_questions.de,
+        "es": dependent_l18n.parent_label.host_payment_questions.es,
+        "fr": dependent_l18n.parent_label.host_payment_questions.fr,
+        "it": dependent_l18n.parent_label.host_payment_questions.it,
+        "nl": dependent_l18n.parent_label.host_payment_questions.nl,
+        "pt": dependent_l18n.parent_label.host_payment_questions.pt
+      },
+      "label": {
+        "en": "I want to know when and how do I get paid",
+        "de": "Ich möchte wissen, wie und wann ich bezahlt werde",
+        "es": "Deseo saber cuándo y cómo se me pagará",
+        "fr": "Je souhaite savoir quand et comment je recevrai le paiement",
+        "it": "Vorrei sapere quando riceverò il pagamento e con quali modalità",
+        "nl": "Ik wil weten wanneer en hoe ik betaald word",
+        "pt": "Pretendo saber como e quando receberei o pagamento"
+      }
+    },
+    "payment_questions__i_want_to_add_or_edit_my_payment_details": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_payment_questions.en,
+        "de": dependent_l18n.parent_label.host_payment_questions.de,
+        "es": dependent_l18n.parent_label.host_payment_questions.es,
+        "fr": dependent_l18n.parent_label.host_payment_questions.fr,
+        "it": dependent_l18n.parent_label.host_payment_questions.it,
+        "nl": dependent_l18n.parent_label.host_payment_questions.nl,
+        "pt": dependent_l18n.parent_label.host_payment_questions.pt
+      },
+      "label": {
+        "en": "I want to add or edit my payment details",
+        "de": "Ich möchte meine Zahlungsweisen eingeben oder bearbeiten",
+        "es": "Deseo añadir o editar la forma de pago",
+        "fr": "Je souhaite ajouter ou modifier mes coordonnées de paiement",
+        "it": "Vorrei aggiungere o modificare i miei dettagli per il pagamento ",
+        "nl": "Ik wil mijn betalingsdetails toevoegen of bewerken",
+        "pt": "Pretendo adicionar ou editar os meus dados para pagamento"
+      }
+    },
+    "payment_questions__i_want_to_make_a_complaint_about_a_payment": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_payment_questions.en,
+        "de": dependent_l18n.parent_label.host_payment_questions.de,
+        "es": dependent_l18n.parent_label.host_payment_questions.es,
+        "fr": dependent_l18n.parent_label.host_payment_questions.fr,
+        "it": dependent_l18n.parent_label.host_payment_questions.it,
+        "nl": dependent_l18n.parent_label.host_payment_questions.nl,
+        "pt": dependent_l18n.parent_label.host_payment_questions.pt
+      },
+      "label": {
+        "en": "I want to make a complaint about a payment",
+        "de": "Ich habe eine Beschwerde bezüglich einer Zahlung",
+        "es": "Deseo presentar una queja sobre un pago",
+        "fr": "Je souhaite porter une réclamation au sujet d’un paiement",
+        "it": "Vorrei presentare un reclamo su un pagamento",
+        "nl": "Ik wil een klacht over betaling indienen",
+        "pt": "Pretendo apresentar queixa sobre um pagamento"
+      }
+    },
+    "problem_with_a_booking__i_want_to_make_a_complaint_about_a_guest": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_problem.en,
+        "de": dependent_l18n.parent_label.host_booking_problem.de,
+        "es": dependent_l18n.parent_label.host_booking_problem.es,
+        "fr": dependent_l18n.parent_label.host_booking_problem.fr,
+        "it": dependent_l18n.parent_label.host_booking_problem.it,
+        "nl": dependent_l18n.parent_label.host_booking_problem.nl,
+        "pt": dependent_l18n.parent_label.host_booking_problem.pt
+      },
+      "label": {
+        "en": "I want to make a complaint about a Guest",
+        "de": "Ich habe eine Beschwerde zu einem Gast",
+        "es": "Deseo presentar una queja sobre un huésped",
+        "fr": "Je souhaite porter une réclamation au sujet d’un Locataire",
+        "it": "Vorrei presentare un reclamo su un Ospite",
+        "nl": "Ik wil een klacht over een Gast indienen",
+        "pt": "Pretendo apresentar queixa de um Hóspede"
+      }
+    },
+    "problem_with_a_booking__i_cannot_get_in_touch_with_my_guest_before_check_in": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_problem.en,
+        "de": dependent_l18n.parent_label.host_booking_problem.de,
+        "es": dependent_l18n.parent_label.host_booking_problem.es,
+        "fr": dependent_l18n.parent_label.host_booking_problem.fr,
+        "it": dependent_l18n.parent_label.host_booking_problem.it,
+        "nl": dependent_l18n.parent_label.host_booking_problem.nl,
+        "pt": dependent_l18n.parent_label.host_booking_problem.pt
+      },
+      "label": {
+        "en": "I cannot get in touch with my Guest before check-in",
+        "de": "Ich konnte den Gast vor dem Check-in nicht erreichen",
+        "es": "No puedo ponerme en contacto con el huésped antes de su entrada",
+        "fr": "Je ne parviens pas à contacter mon Locataire avant son arrivée",
+        "it": "Non riesco a contattare il mio Ospite prima dell'arrivo ",
+        "nl": "Ik kan met mijn Gast niet voor zijn aankomst in contact treden",
+        "pt": "Não consigo entrar em contacto com o meu Hóspede antes do check-in"
+      }
+    },
+    "problem_with_a_booking__i_cannot_meet_my_guests_for_check_in": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_problem.en,
+        "de": dependent_l18n.parent_label.host_booking_problem.de,
+        "es": dependent_l18n.parent_label.host_booking_problem.es,
+        "fr": dependent_l18n.parent_label.host_booking_problem.fr,
+        "it": dependent_l18n.parent_label.host_booking_problem.it,
+        "nl": dependent_l18n.parent_label.host_booking_problem.nl,
+        "pt": dependent_l18n.parent_label.host_booking_problem.pt
+      },
+      "label": {
+        "en": "I cannot meet my Guests for check-in",
+        "de": "Ich bin nicht in der Lage, die Gäste zum Check-in zu treffen",
+        "es": "No puedo encontrarme con los huéspedes para su entrada",
+        "fr": "Je ne peux pas rencontrer mes Locataires à leur arrivée",
+        "it": "Non mi è possibile incontrare i miei Ospiti al loro arrivo ",
+        "nl": "Ik kan mijn Gast niet voor zijn aankomst ontmoeten",
+        "pt": "Não vou conseguir encontrar-me com os meus Hóspedes para o check-in"
+      }
+    },
+    "problem_with_a_booking__i_ve_denied_a_booking_request_by_mistake": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_problem.en,
+        "de": dependent_l18n.parent_label.host_booking_problem.de,
+        "es": dependent_l18n.parent_label.host_booking_problem.es,
+        "fr": dependent_l18n.parent_label.host_booking_problem.fr,
+        "it": dependent_l18n.parent_label.host_booking_problem.it,
+        "nl": dependent_l18n.parent_label.host_booking_problem.nl,
+        "pt": dependent_l18n.parent_label.host_booking_problem.pt
+      },
+      "label": {
+        "en": "I've denied a Booking Request by mistake",
+        "de": "Ich habe eine Buchungsanfrage versehentlich abgelehnt",
+        "es": "He rechazado una solicitud de reserva por error",
+        "fr": "J’ai refusé une demande de réservation par erreur",
+        "it": "Ho rifiutato una Richiesta di prenotazione per sbaglio",
+        "nl": "Ik kan mijn Gast niet voor zijn aankomst ontmoeten",
+        "pt": "Recusei um Pedido de reserva por engano"
+      }
+    },
+    "problem_with_a_booking__my_guest_wants_to_change_the_dates_of_their_stay": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_booking_problem.en,
+        "de": dependent_l18n.parent_label.host_booking_problem.de,
+        "es": dependent_l18n.parent_label.host_booking_problem.es,
+        "fr": dependent_l18n.parent_label.host_booking_problem.fr,
+        "it": dependent_l18n.parent_label.host_booking_problem.it,
+        "nl": dependent_l18n.parent_label.host_booking_problem.nl,
+        "pt": dependent_l18n.parent_label.host_booking_problem.pt
+      },
+      "label": {
+        "en": "My Guest wants to change the dates of their stay",
+        "de": "Meine Gäste wollen den Zeitraum des Aufenthaltes ändern",
+        "es": "Mi huésped necesita cambiar las fechas de su reserva",
+        "fr": "Mes locataires souhaitent changer les dates de leur séjour",
+        "it": "Il mio ospite vuole cambiare le date del soggiorno",
+        "nl": "Ik kan mijn Gast niet voor zijn aankomst ontmoeten",
+        "pt": "Os meus hóspedes pretendem alterar as datas da sua estadia"
+      }
+    },
+    "syncing_calendars__i_want_to_sync_my_property_s_calendar_with_kigo": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_calendar_sync.en,
+        "de": dependent_l18n.parent_label.host_calendar_sync.de,
+        "es": dependent_l18n.parent_label.host_calendar_sync.es,
+        "fr": dependent_l18n.parent_label.host_calendar_sync.fr,
+        "it": dependent_l18n.parent_label.host_calendar_sync.it,
+        "nl": dependent_l18n.parent_label.host_calendar_sync.nl,
+        "pt": dependent_l18n.parent_label.host_calendar_sync.pt
+      },
+      "label": {
+        "en": "I want to sync my property's calendar with Kigo",
+        "de": "Ich möchte meinen Ferienwohnungskalender mit Kigo synchronisieren",
+        "es": "Deseo sincronizar mis calendarios con Kigo",
+        "fr": "Je souhaite synchroniser le calendrier de mon logement avec Kigo",
+        "it": "Vorrei sincronizzare il calendario della mia proprietà con Kigo",
+        "nl": "Ik wil de agenda van mijn accommodatie met Kigo synchroniseren",
+        "pt": "Pretendo sincronizar o calendário da minha propriedade com o Kigo"
+      }
+    },
+    "syncing_calendars__i_want_to_sync_my_properties_with_my_xml_feeds": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_calendar_sync.en,
+        "de": dependent_l18n.parent_label.host_calendar_sync.de,
+        "es": dependent_l18n.parent_label.host_calendar_sync.es,
+        "fr": dependent_l18n.parent_label.host_calendar_sync.fr,
+        "it": dependent_l18n.parent_label.host_calendar_sync.it,
+        "nl": dependent_l18n.parent_label.host_calendar_sync.nl,
+        "pt": dependent_l18n.parent_label.host_calendar_sync.pt
+      },
+      "label": {
+        "en": "I want to sync my properties with my XML feeds",
+        "de": "Ich möchte meine Ferienwohnungen mit XML-Feed synchronisieren",
+        "es": "Deseo sincronizar mis propiedades con XML ",
+        "fr": "Je souhaite synchroniser mes logements avec mes flux XML",
+        "it": "Vorrei sincronizzare le proprietà con i feed XML",
+        "nl": "Ik wil mijn accommodaties met mijn XML-feeds synchroniseren",
+        "pt": "Pretendo sincronizar as minhas propriedades com os meus feeds de XML"
+      }
+    },
+    "syncing_calendars__i_want_to_know_more_about_ical_sync": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_calendar_sync.en,
+        "de": dependent_l18n.parent_label.host_calendar_sync.de,
+        "es": dependent_l18n.parent_label.host_calendar_sync.es,
+        "fr": dependent_l18n.parent_label.host_calendar_sync.fr,
+        "it": dependent_l18n.parent_label.host_calendar_sync.it,
+        "nl": dependent_l18n.parent_label.host_calendar_sync.nl,
+        "pt": dependent_l18n.parent_label.host_calendar_sync.pt
+      },
+      "label": {
+        "en": "I want to know more about iCal sync",
+        "de": "Ich möchte mehr über die iCal Synchronisation erfahren",
+        "es": "Deseo saber más sobre la sincronización iCal",
+        "fr": "Je souhaite en savoir davantage sur la synchronisation iCal",
+        "it": "Vorrei ulteriori informazioni sulla sincronizzazione iCal",
+        "nl": "Ik wil meer over ical synchronisatie weten",
+        "pt": "Pretendo saber mais sobre a sincronização com o iCal"
+      }
+    },
+    "syncing_calendars__i_want_to_learn_more_about_kigo_calendar_sync": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_calendar_sync.en,
+        "de": dependent_l18n.parent_label.host_calendar_sync.de,
+        "es": dependent_l18n.parent_label.host_calendar_sync.es,
+        "fr": dependent_l18n.parent_label.host_calendar_sync.fr,
+        "it": dependent_l18n.parent_label.host_calendar_sync.it,
+        "nl": dependent_l18n.parent_label.host_calendar_sync.nl,
+        "pt": dependent_l18n.parent_label.host_calendar_sync.pt
+      },
+      "label": {
+        "en": "I want to learn more about Kigo calendar sync",
+        "de": "11.4 Ich möchte mehr über die Kigo Kalender-Synchronisation erfahren",
+        "es": "Deseo saber más sobre la sincronización de calendarios con Kigo",
+        "fr": "Je souhaite en savoir davantage sur la synchronisation de calendrier Kigo",
+        "it": "Vorrei ulteriori informazioni sulla sincronizzazione dei calendari Kigo ",
+        "nl": "Ik wil meer over Kigo agenda synchronisatie weten",
+        "pt": "Pretendo saber mais sobre a sincronização com o calendário Kigo"
+      }
+    },
+    "uploading_a_property__i_want_to_upload_a_new_property_listing": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_uploading_property.en,
+        "de": dependent_l18n.parent_label.host_uploading_property.de,
+        "es": dependent_l18n.parent_label.host_uploading_property.es,
+        "fr": dependent_l18n.parent_label.host_uploading_property.fr,
+        "it": dependent_l18n.parent_label.host_uploading_property.it,
+        "nl": dependent_l18n.parent_label.host_uploading_property.nl,
+        "pt": dependent_l18n.parent_label.host_uploading_property.pt
+      },
+      "label": {
+        "en": "I want to upload a new property listing",
+        "de": "Ich möchte eine neue Ferienwohnung hochladen",
+        "es": "Deseo cargar una nueva propiedad en mi listado ",
+        "fr": "Je souhaite mettre en ligne un nouveau logement",
+        "it": "Vorrei caricare un annuncio per una nuova proprietà ",
+        "nl": "Ik wil een nieuwe accommodatie vermelding uploaden",
+        "pt": "Pretendo carregar (adicionar) o anúncio de uma nova propriedade"
+      }
+    },
+    "uploading_a_property__i_cannot_upload_my_property_s_listing_correctly": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_uploading_property.en,
+        "de": dependent_l18n.parent_label.host_uploading_property.de,
+        "es": dependent_l18n.parent_label.host_uploading_property.es,
+        "fr": dependent_l18n.parent_label.host_uploading_property.fr,
+        "it": dependent_l18n.parent_label.host_uploading_property.it,
+        "nl": dependent_l18n.parent_label.host_uploading_property.nl,
+        "pt": dependent_l18n.parent_label.host_uploading_property.pt
+      },
+      "label": {
+        "en": "I cannot upload my property's listing correctly",
+        "de": "Ich kann meine Ferienwohnung nicht richtig hochladen",
+        "es": "No puedo cargar el anuncio de mi propiedad en mi listado correctamente",
+        "fr": "Je n’arrive pas à mettre en ligne mon logement correctement",
+        "it": "Non riesco a caricare correttamente l'annuncio per la mia proprietà ",
+        "nl": "Ik kan mijn accommodaties´ vermelding niet correct uploaden",
+        "pt": "Não consigo carregar (adicionar ) o anúncio da minha propriedade corretamente"
+      }
+    },
+    "uploading_a_property__i_can_t_see_my_property_listing_in_the_search_results": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_uploading_property.en,
+        "de": dependent_l18n.parent_label.host_uploading_property.de,
+        "es": dependent_l18n.parent_label.host_uploading_property.es,
+        "fr": dependent_l18n.parent_label.host_uploading_property.fr,
+        "it": dependent_l18n.parent_label.host_uploading_property.it,
+        "nl": dependent_l18n.parent_label.host_uploading_property.nl,
+        "pt": dependent_l18n.parent_label.host_uploading_property.pt
+      },
+      "label": {
+        "en": "I can't see my property listing in the search results",
+        "de": "Ich kann meine Ferienwohnung nicht in den Suchergebnissen finden",
+        "es": "No puedo ver el anuncio de mi propiedad en los resultados de búsqueda",
+        "fr": "Mon logement n’apparaît pas dans les résultats du moteur de recherche",
+        "it": "Non riesco a visualizzare l'annuncio della mia proprietà nei risultati di ricerca",
+        "nl": "Ik kan mijn accommodaties´ vermelding niet in de zoekresultaten vinden",
+        "pt": "Não consigo visualizar o anúncio da minha propriedade nos resultados da pesquisa"
+      }
+    },
+    "help_getting_more_bookings__i_want_to_improve_the_quality_of_my_listings_on_housetrip": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_help_getting_more_bookings.en,
+        "de": dependent_l18n.parent_label.host_help_getting_more_bookings.de,
+        "es": dependent_l18n.parent_label.host_help_getting_more_bookings.es,
+        "fr": dependent_l18n.parent_label.host_help_getting_more_bookings.fr,
+        "it": dependent_l18n.parent_label.host_help_getting_more_bookings.it,
+        "nl": dependent_l18n.parent_label.host_help_getting_more_bookings.nl,
+        "pt": dependent_l18n.parent_label.host_help_getting_more_bookings.pt
+      },
+      "label": {
+        "en": "I want to improve the quality of my listings on HouseTrip",
+        "de": "Ich möchte die Qualität meiner Ferienwohnungen bei HouseTrip verbessern",
+        "es": "Deseo mejorar la calidad de mis anuncios en HouseTrip",
+        "fr": "Je souhaite améliorer la qualité de mes logements sur HouseTrip",
+        "it": "Vorrei migliorare la qualità dei miei annunci su HouseTrip",
+        "nl": "Ik wil de kwaliteit van mijn vermeldingen op HouseTrip verbeteren",
+        "pt": "Pretendo melhorar a qualidade dos meus anúncios na HouseTrip"
+      }
+    },
+    "help_getting_more_bookings__i_want_to_improve_the_ranking_on_my_listings_in_search_results": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_help_getting_more_bookings.en,
+        "de": dependent_l18n.parent_label.host_help_getting_more_bookings.de,
+        "es": dependent_l18n.parent_label.host_help_getting_more_bookings.es,
+        "fr": dependent_l18n.parent_label.host_help_getting_more_bookings.fr,
+        "it": dependent_l18n.parent_label.host_help_getting_more_bookings.it,
+        "nl": dependent_l18n.parent_label.host_help_getting_more_bookings.nl,
+        "pt": dependent_l18n.parent_label.host_help_getting_more_bookings.pt
+      },
+      "label": {
+        "en": "I want to improve the ranking on my listings in search results",
+        "de": "Ich möchte den Rang meiner Ferienwohnungen in den Suchergebnissen verbessern",
+        "es": "Deseo mejorar la clasificación de mis anuncios en los resultados de búsqueda",
+        "fr": "Je souhaite améliorer le score de mes logements dans les résultats du moteur de recherche",
+        "it": "Vorrei migliorare la posizione dei miei annunci nei risultati di ricerca ",
+        "nl": "Ik wil de waardering op mijn vermeldingen in de zoekresultaten verbeteren",
+        "pt": "Pretendo melhorar a classificação dos meus anúncios nos resultados da pesquisa"
+      }
+    },
+    "help_getting_more_bookings__i_want_to_learn_more_about_opportunity_section_in_my_dashboard": {
+      "parent_label": {
+        "en": dependent_l18n.parent_label.host_help_getting_more_bookings.en,
+        "de": dependent_l18n.parent_label.host_help_getting_more_bookings.de,
+        "es": dependent_l18n.parent_label.host_help_getting_more_bookings.es,
+        "fr": dependent_l18n.parent_label.host_help_getting_more_bookings.fr,
+        "it": dependent_l18n.parent_label.host_help_getting_more_bookings.it,
+        "nl": dependent_l18n.parent_label.host_help_getting_more_bookings.nl,
+        "pt": dependent_l18n.parent_label.host_help_getting_more_bookings.pt
+      },
+      "label": {
+        "en": "I want to learn more about Opportunity section in my dashboard",
+        "de": "Ich möchte mehr über den Abschnitt „Verbesserungsmöglichkeiten“ in meiner Übersicht erfahren",
+        "es": "Deseo más información sobre la sección de Oportunidades de mi panel de control",
+        "fr": "Je souhaite en savoir plus sur la section Opportunités de mon tableau de bord",
+        "it": "Vorrei ulteriori informazioni sulla sezione Opportunità del mio  pannello di controllo",
+        "nl": "Ik wil meer weten over de mogelijkheden in mijn dashboard weten",
+        "pt": "Pretendo saber mais sobre a secção Oportunidade no meu painel"
+      }
+    },
+    "bug_in_the_system": {
+      "label": {
+        "en": "Bug in the system",
+        "de": "Systemfehler",
+        "es": "Error en el sistema",
+        "fr": "Bug dans le système",
+        "it": "Bug nel sistema",
+        "nl": "Probleem in het systeem",
+        "pt": "Erro no sistema"
+      }
+    },
+    "feedback_suggestions": {
+      "label": {
+        "en": "Feedback/Suggestions",
+        "de": "Feedback/Empfehlungen",
+        "es": "Opiniones/Sugerencias",
+        "fr": "Commentaires/Suggestions",
+        "it": "Feedback/Consigli",
+        "nl": "Feedback/Suggesties",
+        "pt": "Comentários/Sugestõe"
+      }
+    },
+    "jobs_careers": {
+      "label": {
+        "en": "Jobs/Careers",
+        "de": "Jobs/Karriere",
+        "es": "Puestos de trabajo/Carrera profesional",
+        "fr": "Emplois/Carrières",
+        "it": "Lavora con noi",
+        "nl": "Vacatures/Carrières",
+        "pt": "Emprego/Carreira"
+      }
+    },
+    "press": {
+      "label": {
+        "en": "Press",
+        "de": "Presse/Medien",
+        "es": "Prensa",
+        "fr": "Presse",
+        "it": "Stampa",
+        "nl": "Pers",
+        "pt": "Imprensa"
+      }
+    },
+    "marketing": {
+      "label": {
+        "en": "Marketing",
+        "de": "Marketing",
+        "es": "Marketing",
+        "fr": "Marketing",
+        "it": "Marketing",
+        "nl": "Marketing",
+        "pt": "Marketing"
+      }
+    },
+    "partnership": {
+      "label": {
+        "en": "Partnership",
+        "de": "Partnerschaft",
+        "es": "Socios",
+        "fr": "Partenariat",
+        "it": "Partnership",
+        "nl": "Partnerschap",
+        "pt": "Parcerias"
+      }
+    }
+  }
+};
